@@ -1,0 +1,25 @@
+{
+  "name": "use-fields",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "jest",
+    "build": "babel index.js --out-file dist/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "peerDependencies": {
+    "react": "^16.8.6"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.4.4",
+    "@babel/core": "^7.4.4",
+    "babel-preset-react-app": "^8.0.0",
+    "jest": "^24.8.0",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-testing-library": "^7.0.0"
+  }
+}
