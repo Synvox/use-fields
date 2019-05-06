@@ -1,5 +1,8 @@
 # `use-fields`
 
+[![codecov](https://img.shields.io/travis/Synvox/use-fields.svg)](https://travis-ci.org/Synvox/use-fields)
+[![codecov](https://codecov.io/gh/Synvox/use-fields/branch/master/graph/badge.svg)](https://codecov.io/gh/Synvox/use-fields)
+
 ```
 npm i use-fields
 ```
