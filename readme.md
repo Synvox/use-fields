@@ -14,7 +14,7 @@ const { field, value, touched } = useFields({ initialValue: { name: "blah" } });
 and
 
 ```js
-<input {...field('name)}/>
+<input {...field("name")} />
 ```
 
 or the `field` function returns a object with the shape:
